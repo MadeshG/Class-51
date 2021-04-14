@@ -1,0 +1,40 @@
+
+    h1{
+        color:#1098E6
+        
+    }
+    *{
+        border:solid
+    }
+    .hi{
+        background-color: #e0e717;
+    }
+    .games{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly
+
+    }
+    .game1{
+        display: flex;
+        background-color:#64656b
+    }
+    .game2{
+        display: flex;
+        background-color: #493B23
+    }
+    .game3{
+        display: flex;
+        background-color:#D269BE;
+    }
+    p,h2{
+        text-align: center;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        background-color: darkslateblue;
+    }
+    body{
+        background-color:#808080
+    }
